@@ -1,4 +1,3 @@
-de Ivan a todos:    12:49 PM
 // Sintaxis declarativa: MAS SENCILLA y LA MAS USADA. Menos potente que la de scripting... 
 //          pero mucho MAS que los proyectos de estilo libre
 // Sintaxis de scripting: MAS COMPLEJA Y MAS POTENTE: Puedo hacer lo que quiera con Jenkins
